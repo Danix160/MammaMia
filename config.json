@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingcommunity.hiphop",
+            "url": "https://streamingcommunity.ovh",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://onlineserietv.com/",
+            "url": "https://www.tanti.bond",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.stream",
+            "url": "https://cb01net.vip",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.mom",
+            "url": "https://guardaserietv.art",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -60,7 +60,7 @@
             "GH_PROXY": "1"
         },
         "Onlineserietv": {
-            "domain": "https://onlineserietv.com/",
+            "domain": "com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
@@ -72,11 +72,11 @@
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.blog",
+            "url": "https://skystreaming.email",
             "enabled": "1"
         },
         "DaddyLiveHD": {
-            "url": "https://daddylive.mp",
+            "url": "https://daddylive.dad",
             "enabled": "1"
         }
     },
@@ -90,4 +90,4 @@
         "Remote_Instance": "1",
         "Global_Proxy": "0"
     }
-} 
+}
